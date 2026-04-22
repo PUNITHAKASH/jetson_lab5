@@ -21,8 +21,12 @@ During the deployment phase, several environment-specific issues were resolved:
 
 ##  Detection Evidence
 The following screenshot demonstrates the system accurately identifying a restricted object and transitioning the HUD to the **Red "!!! ANOMALY !!!"** state.
+<img width="1200" height="1600" alt="WhatsApp Image 2026-04-22 at 00 22 26 (1)" src="https://github.com/user-attachments/assets/9e9b3891-2b50-4ec7-8d65-fe6482866c08" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-04-22 at 00 22 26" src="https://github.com/user-attachments/assets/64c40106-050c-4cad-bd85-d1ffe9ba6c23" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-04-22 at 00 22 31" src="https://github.com/user-attachments/assets/0d34130d-8bf8-46cd-a545-6b1b3227b78a" />
 
-![Anomaly Detection Screenshot](screenshot.jpg)
+
+
 
 ## 📁 Repository Structure
 * `main_detector.py`: Primary application entry point.
